@@ -4,7 +4,7 @@ package br.com.bytebank.banco.modelo;
 /**
  * Classe representa a moldura de uma conta
  * 
- * @author Nico Steppat
+ * @author Danilo Novaes
  *
  */
 public abstract class Conta extends Object implements Comparable<Conta> {
